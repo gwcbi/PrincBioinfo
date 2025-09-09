@@ -2,7 +2,7 @@
 
 **Instructor:** Keith Crandall, PhD  
 Director, Computational Biology Institute  
-📧 kcrandall@gwu.edu | 📍 SEH 7670 | Office Hours: Thu 2:15–3:00 pm or by appointment  
+📧 kcrandall@gwu.edu | 📍 SEH 7670 | Office Hours: TBD
 
 **Teaching Assistant:** Xinyang Zhang  
 📧 xinyangz@gwu.edu | 📍 SEH 7000 Foyer/Fish Bowl | Office Hours: TBD  
@@ -50,22 +50,16 @@ By the end of this course, students will be able to:
 - **Participation:** 5%  
 - **Individual Research Project:** 25%:contentReference[oaicite:2]{index=2}
 
-**Graduate Grading Scale:**  
-A: 94–100, A-: 90–93, B+: 87–89, B: 84–86, B-: 80–83, C+: 77–79, C: 73–76, C-: 70–72, F: <70  
 ## Graduate Grading Scale
 
-| Grade | Percentage |
-|-------|-------------|
-| A     | 94–100     |
-| A-    | 90–93      |
-| B+    | 87–89      |
-| B     | 84–86      |
-| B-    | 80–83      |
-| C+    | 77–79      |
-| C     | 73–76      |
-| C-    | 70–72      |
-| F     | <70        |
-
+| Grade | Percentage | Grade | Percentage |
+|-------|-------------|-------|-------------|
+| A     | 94–100     | C     | 73–76      |
+| A-    | 90–93      | C-    | 70–72      |
+| B+    | 87–89      | C-    | <70        |
+| B     | 84–86      | F     |             |
+| B-    | 80–83      |       |             |
+| C+    | 77–79      |       |             |
 
 ---
 
@@ -75,19 +69,6 @@ A: 94–100, A-: 90–93, B+: 87–89, B: 84–86, B-: 80–83, C+: 77–79, C: 
 - **Research Project:** Final third of semester; group work encouraged; final paper due in Finals Week:contentReference[oaicite:3]{index=3}
 
 ---
-
-## 📆 Weekly Schedule (Highlights)
-- **Week 1 (Aug 26):** Introduction; Molecular Biology 101  
-- **Week 2 (Sep 02):** Programming Basics I (R/Unix)  
-- **Week 3 (Sep 09):** Sequence Databases (GenBank)  
-- **Week 4 (Sep 16):** Scientific Literature & GitHub Intro  
-- **Week 5 (Sep 23):** Molecular Evolution (Lab 1 assigned)  
-- **Week 7 (Oct 07):** Pairwise Sequence Alignment  
-- **Week 9 (Oct 21):** Protein Structure Prediction  
-- **Week 10 (Oct 28):** Phylogenetics (Lab 2 assigned)  
-- **Week 11 (Nov 04):** Research Project Exploration  
-- **Week 14 (Dec 02):** Transcript & Protein Expression Analysis  
-- **Week 15 (Finals Week):** **Research Project Paper Due**:contentReference[oaicite:4]{index=4}
 
 ## Weekly Schedule (Highlights)
 
