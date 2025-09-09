@@ -1,0 +1,54 @@
+/* styles.css */
+
+/* Body text */
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #033C5A !important;  /* dark blue */
+  color: white;
+}
+
+.sidebar a {
+  color: #f8f9fa !important;
+}
+
+.sidebar a:hover {
+  background-color: #05507a !important;
+  color: #ffffff !important;
+}
+
+/* Links in content */
+a {
+  color: #0190DB;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 6px 10px;
+}
+
+table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+/* Page footer */
+.page-footer {
+  font-size: 0.9em;
+  color: #888;
+}
