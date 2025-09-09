@@ -12,7 +12,7 @@ website:
       - text: Home
         href: index.md
       - text: Syllabus
-        href: README.md
+        href: syllabus.qmd
       - text: Assignments
         href: assignments/index.md
       - text: Labs
