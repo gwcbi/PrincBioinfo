@@ -52,6 +52,20 @@ By the end of this course, students will be able to:
 
 **Graduate Grading Scale:**  
 A: 94–100, A-: 90–93, B+: 87–89, B: 84–86, B-: 80–83, C+: 77–79, C: 73–76, C-: 70–72, F: <70  
+## Graduate Grading Scale
+
+| Grade | Percentage |
+|-------|-------------|
+| A     | 94–100     |
+| A-    | 90–93      |
+| B+    | 87–89      |
+| B     | 84–86      |
+| B-    | 80–83      |
+| C+    | 77–79      |
+| C     | 73–76      |
+| C-    | 70–72      |
+| F     | <70        |
+
 
 ---
 
@@ -74,6 +88,22 @@ A: 94–100, A-: 90–93, B+: 87–89, B: 84–86, B-: 80–83, C+: 77–79, C: 
 - **Week 11 (Nov 04):** Research Project Exploration  
 - **Week 14 (Dec 02):** Transcript & Protein Expression Analysis  
 - **Week 15 (Finals Week):** **Research Project Paper Due**:contentReference[oaicite:4]{index=4}
+
+## Weekly Schedule (Highlights)
+
+| Week | Date      | Topic                                    | Notes            |
+|------|-----------|------------------------------------------|------------------|
+| 1    | Aug 26    | Introduction; Molecular Biology 101      |                  |
+| 2    | Sep 02    | Programming Basics I (R/Unix)            |                  |
+| 3    | Sep 09    | Sequence Databases (GenBank)             |                  |
+| 4    | Sep 16    | Scientific Literature & GitHub Intro     |                  |
+| 5    | Sep 23    | Molecular Evolution                      | Lab 1 assigned   |
+| 7    | Oct 07    | Pairwise Sequence Alignment              |                  |
+| 9    | Oct 21    | Protein Structure Prediction             |                  |
+| 10   | Oct 28    | Phylogenetics                            | Lab 2 assigned   |
+| 11   | Nov 04    | Research Project Exploration             |                  |
+| 14   | Dec 02    | Transcript & Protein Expression Analysis |                  |
+| 15   | Finals    | Research Project Paper Due               | Final Submission |
 
 > See full syllabus (PDF in repo) for complete week-by-week details.  
 
