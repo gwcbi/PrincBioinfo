@@ -10,17 +10,17 @@ website:
     search: true
     left:
       - text: Home
-        href: index.qmd
+        href: index.md
       - text: Syllabus
-        href: syllabus.qmd
+        href: readme.md
       - text: Assignments
-        href: assignments/index.qmd
+        href: assignments/index.md
       - text: Labs
-        href: labs/index.qmd
+        href: labs/index.md
       - text: FAQ
-        href: faq.qmd
+        href: faq.md
       - text: Useful Links
-        href: links.qmd
+        href: links.md
   page-footer:
     left: |
       © 2025 Milken Institute School of Public Health, GWU
