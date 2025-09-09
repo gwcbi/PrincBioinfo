@@ -1,0 +1,179 @@
+[
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Instructor: Keith Crandall, PhD\nDirector, Computational Biology Institute\n📧 kcrandall@gwu.edu | 📍 SEH 7670 | Office Hours: TBD\nTeaching Assistant: Xinyang Zhang\n📧 xinyangz@gwu.edu | 📍 SEH 7000 Foyer/Fish Bowl | Office Hours: TBD\nCourse Time: Tuesdays 10:10 am – 12:00 pm Credits: 3\n\n\n\nThis course introduces the principles of bioinformatics, blending biological, computational, and programming concepts. Students will learn:\n- Molecular biology, genome organization, and evolution\n- Sequence alignment, database searching, phylogenetics, and structural bioinformatics\n- Unix environment, shell scripting, Python basics, and database concepts\n\n\n\n\nBy the end of this course, students will be able to:\n- Apply knowledge of and skills in the Unix environment\n- Access and analyze genomic data from diverse sources\n- Apply pairwise and multiple sequence alignment\n- Synthesize bioinformatics concepts across alignment, evolution, and phylogenetics\n- Evaluate genetic/genomic analysis software\n- Create novel analyses and insights through programming:contentReference\n\n\n\n\n\nConcepts in Bioinformatics and Genomics (1st Edition), Jamil Momand & Alison McCurdy:contentReference\n\n\n\n\n\n\nLaptop with video/audio\n\nBlackboard + Zoom/WebEx access\n\nR and Python (installed locally)\n\nFamiliarity with uploading assignments and joining online meetings\n\n\n\n\n\n\nProblem Sets: 30%\n\nLabs: 40%\n\nParticipation: 5%\n\nIndividual Research Project: 25%:contentReferenceoaicite:2\n\n\n\n\n\n\n\nGrade\nPercentage\nGrade\nPercentage\n\n\n\n\nA\n94–100\nC\n73–76\n\n\nA-\n90–93\nC-\n70–72\n\n\nB+\n87–89\nF\n&lt;70\n\n\nB\n84–86\n\n\n\n\nB-\n80–83\n\n\n\n\nC+\n77–79\n\n\n\n\n\n\n\n\n\n\nProblem Sets: Weekly, practice applying lecture and textbook concepts\n\nLabs: Written as short scientific reports (Bioinformatics journal style)\n\nResearch Project: Final third of semester; group work encouraged; final paper due in Finals Week:contentReferenceoaicite:3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nNotes\n\n\n\n\n1\nAug 26\nIntroduction; Molecular Biology 101\n\n\n\n2\nSep 02\nProgramming Basics I (R/Unix)\n\n\n\n3\nSep 09\nSequence Databases (GenBank)\n\n\n\n4\nSep 16\nScientific Literature & GitHub Intro\n\n\n\n5\nSep 23\nMolecular Evolution\nLab 1 assigned\n\n\n7\nOct 07\nPairwise Sequence Alignment\n\n\n\n9\nOct 21\nProtein Structure Prediction\n\n\n\n10\nOct 28\nPhylogenetics\nLab 2 assigned\n\n\n11\nNov 04\nResearch Project Exploration\n\n\n\n14\nDec 02\nTranscript & Protein Expression Analysis\n\n\n\n15\nFinals\nResearch Project Paper Due\nFinal Submission\n\n\n\n\nSee full syllabus (PDF in repo) for complete week-by-week details.\n\n\n\n\n\n\nParticipation: Come prepared; contribute to discussions.\n\nLate Work: Accepted with 1% penalty per hour (first 5h) up to 5% per day. All assignments due by 11:59 pm unless otherwise noted:contentReferenceoaicite:5.\n\nCollaboration: Teamwork encouraged; final submissions must be individual unless otherwise specified.\n\n\n\n\n\n\nCourse Website (GitHub Pages) ← update with your repo name\n\nAssignments\n\nLabs\n\nLectures\n\nBlackboard Login\n\n\n\n\n\n\n5–7 hrs/week: reading, assignments, project work\n\n2.5 hrs/week: synchronous instruction and labs:contentReferenceoaicite:6\n\n\n\n\n\n\nInstructor: Keith Crandall — kcrandall@gwu.edu\n\nTA: Xinyang Zhang — xinyangz@gwmail.gwu.edu",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "This course introduces the principles of bioinformatics, blending biological, computational, and programming concepts. Students will learn:\n- Molecular biology, genome organization, and evolution\n- Sequence alignment, database searching, phylogenetics, and structural bioinformatics\n- Unix environment, shell scripting, Python basics, and database concepts",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#learning-outcomes",
+    "href": "syllabus.html#learning-outcomes",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "By the end of this course, students will be able to:\n- Apply knowledge of and skills in the Unix environment\n- Access and analyze genomic data from diverse sources\n- Apply pairwise and multiple sequence alignment\n- Synthesize bioinformatics concepts across alignment, evolution, and phylogenetics\n- Evaluate genetic/genomic analysis software\n- Create novel analyses and insights through programming:contentReference",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#textbook",
+    "href": "syllabus.html#textbook",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Concepts in Bioinformatics and Genomics (1st Edition), Jamil Momand & Alison McCurdy:contentReference",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#technology-requirements",
+    "href": "syllabus.html#technology-requirements",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Laptop with video/audio\n\nBlackboard + Zoom/WebEx access\n\nR and Python (installed locally)\n\nFamiliarity with uploading assignments and joining online meetings",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Problem Sets: 30%\n\nLabs: 40%\n\nParticipation: 5%\n\nIndividual Research Project: 25%:contentReferenceoaicite:2",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#graduate-grading-scale",
+    "href": "syllabus.html#graduate-grading-scale",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Grade\nPercentage\nGrade\nPercentage\n\n\n\n\nA\n94–100\nC\n73–76\n\n\nA-\n90–93\nC-\n70–72\n\n\nB+\n87–89\nF\n&lt;70\n\n\nB\n84–86\n\n\n\n\nB-\n80–83\n\n\n\n\nC+\n77–79",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#assignments",
+    "href": "syllabus.html#assignments",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Problem Sets: Weekly, practice applying lecture and textbook concepts\n\nLabs: Written as short scientific reports (Bioinformatics journal style)\n\nResearch Project: Final third of semester; group work encouraged; final paper due in Finals Week:contentReferenceoaicite:3",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#weekly-schedule-highlights",
+    "href": "syllabus.html#weekly-schedule-highlights",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Week\nDate\nTopic\nNotes\n\n\n\n\n1\nAug 26\nIntroduction; Molecular Biology 101\n\n\n\n2\nSep 02\nProgramming Basics I (R/Unix)\n\n\n\n3\nSep 09\nSequence Databases (GenBank)\n\n\n\n4\nSep 16\nScientific Literature & GitHub Intro\n\n\n\n5\nSep 23\nMolecular Evolution\nLab 1 assigned\n\n\n7\nOct 07\nPairwise Sequence Alignment\n\n\n\n9\nOct 21\nProtein Structure Prediction\n\n\n\n10\nOct 28\nPhylogenetics\nLab 2 assigned\n\n\n11\nNov 04\nResearch Project Exploration\n\n\n\n14\nDec 02\nTranscript & Protein Expression Analysis\n\n\n\n15\nFinals\nResearch Project Paper Due\nFinal Submission\n\n\n\n\nSee full syllabus (PDF in repo) for complete week-by-week details.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-policies",
+    "href": "syllabus.html#course-policies",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Participation: Come prepared; contribute to discussions.\n\nLate Work: Accepted with 1% penalty per hour (first 5h) up to 5% per day. All assignments due by 11:59 pm unless otherwise noted:contentReferenceoaicite:5.\n\nCollaboration: Teamwork encouraged; final submissions must be individual unless otherwise specified.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#useful-links",
+    "href": "syllabus.html#useful-links",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Course Website (GitHub Pages) ← update with your repo name\n\nAssignments\n\nLabs\n\nLectures\n\nBlackboard Login",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#workload",
+    "href": "syllabus.html#workload",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "5–7 hrs/week: reading, assignments, project work\n\n2.5 hrs/week: synchronous instruction and labs:contentReferenceoaicite:6",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#contact",
+    "href": "syllabus.html#contact",
+    "title": "PUBH 6860: Principles of Bioinformatics",
+    "section": "",
+    "text": "Instructor: Keith Crandall — kcrandall@gwu.edu\n\nTA: Xinyang Zhang — xinyangz@gwmail.gwu.edu",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "FAQ\nQ: Do I need prior programming experience?\nA: No. The course assumes no prior programming background.\nQ: Where do I submit assignments?\nA: Submit all assignments on Blackboard unless otherwise instructed.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Assignments\nThis page will list all problem sets, labs, and project milestones.\nContent coming soon.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "labs/index.html",
+    "href": "labs/index.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Labs\nHands-on exercises to reinforce course topics.\nLab instructions will be posted here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PUBH 6860 — Principles of Bioinformatics (Fall 2025)",
+    "section": "",
+    "text": "PUBH 6860 — Principles of Bioinformatics (Fall 2025)\nWelcome to the course site! Use the navigation bar above to explore the syllabus, assignments, labs, FAQ, and useful links.",
+    "crumbs": [
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Useful Links",
+    "section": "",
+    "text": "Useful Links\n\nBlackboard\nNCBI GenBank\nR Project\nPython\nQuarto",
+    "crumbs": [
+      "Useful Links"
+    ]
+  }
+]
