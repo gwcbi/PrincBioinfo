@@ -1,35 +1,58 @@
 project:
+  title: "PUBH 6860 — Principles of Bioinformatics"
   type: website
   output-dir: docs
 
 website:
-  title: "PUBH 6860 — Principles of Bioinformatics (Fall 2025)"
+  title: "PUBH 6860 — Principles of Bioinformatics"
   site-url: https://keillyzhang.github.io/PrincBioinfo/
-  navbar:
-    background: primary
-    search: true
-    left:
-      - text: Home
-        href: index.md
-      - text: Syllabus
-        href: syllabus.qmd
-      - text: Assignments
-        href: assignments/index.md
-      - text: Labs
-        href: labs/index.md
-      - text: FAQ
-        href: faq.md
-      - text: Useful Links
-        href: links.md
-  page-footer:
-    left: |
-      © 2025 Milken Institute School of Public Health, GWU
-    right: |
-      Built with [Quarto](https://quarto.org)
+  favicon: course_logo.png       # put an image in repo root or /images
+  sidebar:
+    pinned: true
+    background: "#033C5A"
+    foreground: white
+    border: true
+    logo: course_logo.png        # optional; same file as favicon or another
+    style: docked
+    search: false
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Schedule
+        icon: calendar
+      - href: syllabus.qmd
+        text: Syllabus
+        icon: book
+      - href: faq.qmd
+        text: "FAQ"
+        icon: question
+      - href: links.qmd
+        text: "Useful Links"
+        icon: link
+      - href: assignments/index.qmd
+        text: Assignments
+        icon: list-task
+      - href: labs/index.qmd
+        text: Labs
+        icon: mortarboard
+      - href: https://github.com/keillyzhang/PrincBioinfo
+        text: "GitHub"
+        icon: github
+        target: _blank
+      - href: https://blackboard.gwu.edu
+        text: "Blackboard"
+        icon: box-arrow-up-right
+        target: _blank
+      - href: https://www.zotero.org/groups/6113424/pubh-8878/library
+        text: "Zotero Library"
+        icon: book
+        target: _blank
 
 format:
   html:
-    theme: cosmo
+    grid:
+      sidebar-width: 250px
+    css: styles.css          # optional custom styles
     toc: true
-    toc-location: left
-    css: styles.css
+    mainfont: system-ui, sans-serif
+    linkcolor: "#0190DB"
