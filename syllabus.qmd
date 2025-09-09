@@ -1,1 +1,121 @@
+# PUBH 6860: Principles of Bioinformatics
+
+**Instructor:** Keith Crandall, PhD  
+Director, Computational Biology Institute  
+📧 kcrandall@gwu.edu | 📍 SEH 7670 | Office Hours: TBD
+
+**Teaching Assistant:** Xinyang Zhang  
+📧 xinyangz@gwu.edu | 📍 SEH 7000 Foyer/Fish Bowl | Office Hours: TBD  
+
+**Course Time:** Tuesdays 10:10 am – 12:00 pm
+**Credits:** 3  
+
+---
+
+## 📘 Course Description
+This course introduces the **principles of bioinformatics**, blending biological, computational, and programming concepts. Students will learn:  
+- Molecular biology, genome organization, and evolution  
+- Sequence alignment, database searching, phylogenetics, and structural bioinformatics  
+- Unix environment, shell scripting, Python basics, and database concepts  
+
+---
+
+## 🎯 Learning Outcomes
+By the end of this course, students will be able to:  
+- Apply knowledge of and skills in the Unix environment  
+- Access and analyze genomic data from diverse sources  
+- Apply pairwise and multiple sequence alignment  
+- Synthesize bioinformatics concepts across alignment, evolution, and phylogenetics  
+- Evaluate genetic/genomic analysis software  
+- Create novel analyses and insights through programming:contentReference 
+
+---
+
+## 📚 Textbook
+- *Concepts in Bioinformatics and Genomics* (1st Edition), Jamil Momand & Alison McCurdy:contentReference
+
+---
+
+## 💻 Technology Requirements
+- Laptop with video/audio  
+- Blackboard + Zoom/WebEx access  
+- R and Python (installed locally)  
+- Familiarity with uploading assignments and joining online meetings  
+
+---
+
+## 📝 Grading
+- **Problem Sets:** 30%  
+- **Labs:** 40%  
+- **Participation:** 5%  
+- **Individual Research Project:** 25%:contentReference[oaicite:2]{index=2}
+
+## Graduate Grading Scale
+
+| Grade | Percentage | Grade | Percentage |
+|-------|-------------|-------|-------------|
+| A     | 94–100     | C     | 73–76      |
+| A-    | 90–93      | C-    | 70–72      |
+| B+    | 87–89      | F     | <70        |
+| B     | 84–86      |       |             |
+| B-    | 80–83      |       |             |
+| C+    | 77–79      |       |             |
+
+---
+
+## 📂 Assignments
+- **Problem Sets:** Weekly, practice applying lecture and textbook concepts  
+- **Labs:** Written as short scientific reports (Bioinformatics journal style)  
+- **Research Project:** Final third of semester; group work encouraged; final paper due in Finals Week:contentReference[oaicite:3]{index=3}
+
+---
+
+## Weekly Schedule (Highlights)
+
+| Week | Date      | Topic                                    | Notes            |
+|------|-----------|------------------------------------------|------------------|
+| 1    | Aug 26    | Introduction; Molecular Biology 101      |                  |
+| 2    | Sep 02    | Programming Basics I (R/Unix)            |                  |
+| 3    | Sep 09    | Sequence Databases (GenBank)             |                  |
+| 4    | Sep 16    | Scientific Literature & GitHub Intro     |                  |
+| 5    | Sep 23    | Molecular Evolution                      | Lab 1 assigned   |
+| 7    | Oct 07    | Pairwise Sequence Alignment              |                  |
+| 9    | Oct 21    | Protein Structure Prediction             |                  |
+| 10   | Oct 28    | Phylogenetics                            | Lab 2 assigned   |
+| 11   | Nov 04    | Research Project Exploration             |                  |
+| 14   | Dec 02    | Transcript & Protein Expression Analysis |                  |
+| 15   | Finals    | Research Project Paper Due               | Final Submission |
+
+> See full syllabus (PDF in repo) for complete week-by-week details.  
+
+---
+
+## 📑 Course Policies
+- **Participation:** Come prepared; contribute to discussions.  
+- **Late Work:** Accepted with 1% penalty per hour (first 5h) up to 5% per day. All assignments due by 11:59 pm unless otherwise noted:contentReference[oaicite:5]{index=5}.  
+- **Collaboration:** Teamwork encouraged; final submissions must be individual unless otherwise specified.  
+
+---
+
+## 🔗 Useful Links
+- [Course Website (GitHub Pages)](https://yourgithubusername.github.io/StatGen/) ← update with your repo name  
+- [Assignments](./assignments)  
+- [Labs](./labs)  
+- [Lectures](./lectures)  
+- [Blackboard Login](https://blackboard.gwu.edu)  
+
+---
+
+## 🧑‍🎓 Workload
+- 5–7 hrs/week: reading, assignments, project work  
+- 2.5 hrs/week: synchronous instruction and labs:contentReference[oaicite:6]{index=6}
+
+---
+
+## 📬 Contact
+- **Instructor:** Keith Crandall — kcrandall@gwu.edu  
+- **TA:** Xinyang Zhang — xinyangz@gwmail.gwu.edu  
+
+---
+
 
