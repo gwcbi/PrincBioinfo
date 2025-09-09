@@ -4,7 +4,7 @@ project:
 
 website:
   title: "PUBH 6860 — Principles of Bioinformatics (Fall 2025)"
-  site-url: https://gwcbi.github.io/PrincBioinfo/
+  site-url: https://keillyzhang.github.io/PrincBioinfo/
   navbar:
     background: primary
     search: true
@@ -12,7 +12,7 @@ website:
       - text: Home
         href: index.md
       - text: Syllabus
-        href: readme.md
+        href: syllabus.md
       - text: Assignments
         href: assignments/index.md
       - text: Labs
