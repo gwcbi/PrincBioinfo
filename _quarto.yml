@@ -4,6 +4,8 @@ project:
 
 website:
   title: "PUBH 6860 — Principles of Bioinformatics (Fall 2025)"
+  site-url: https://gwcbi.github.io/PrincBioinfo/
+  https://gwcbi.github.io/PrincBioinfo/
   navbar:
     background: primary
     search: true
