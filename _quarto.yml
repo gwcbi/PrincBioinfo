@@ -23,16 +23,16 @@ website:
       - href: syllabus.qmd
         text: Syllabus
         icon: book
-      - href: faq.qmd
+      - href: faq.md
         text: "FAQ"
         icon: question
-      - href: links.qmd
+      - href: links.md
         text: "Useful Links"
         icon: link
-      - href: assignments/index.qmd
+      - href: assignments/index.md
         text: Assignments
         icon: list-task
-      - href: labs/index.qmd
+      - href: labs/index.md
         text: Labs
         icon: mortarboard
       - href: https://github.com/keillyzhang/PrincBioinfo
