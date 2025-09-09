@@ -6,13 +6,11 @@ project:
 website:
   title: "PUBH 6860 — Principles of Bioinformatics"
   site-url: https://keillyzhang.github.io/PrincBioinfo/
-  favicon: course_logo.png       # put an image in repo root or /images
   sidebar:
     pinned: true
     background: "#033C5A"
     foreground: white
     border: true
-    logo: course_logo.png        # optional; same file as favicon or another
     style: docked
     search: false
     collapse-level: 1
